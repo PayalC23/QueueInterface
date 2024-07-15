@@ -22,5 +22,4 @@ package queue.task;
 	public String toString() {
 		return "Task [id=" + id + ", description=" + description + ", priority=" + priority + "]";
 	}
-
-}
+ }
